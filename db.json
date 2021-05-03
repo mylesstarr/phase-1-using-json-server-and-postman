@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "This example was patched!",
+      "id": 3
+    },
+    {
+      "title": "Fifth Article",
+      "content": "This example is the fifth article, and I am the fifth element!",
+      "id": 5
+    },
+    {
+      "books": [
+        {
+          "title": "The Savage Detectives",
+          "content": "This book is by bolano!",
+          "id": 12
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
